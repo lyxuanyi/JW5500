@@ -1,7 +1,7 @@
-162.159.45.209:443#🇯🇵Pacific-Tokyo 49 49.25MB/s
-108.162.195.130:443#🇸🇬Pacific-Singapore 86
-162.159.16.208:443#🇸🇬Pacific-Singapore 85
-108.162.192.30:443#🇸🇬Pacific-Singapore 84
+162.159.45.209:443#东京 49 49.25MB/s
+108.162.195.130:443#新加坡 86
+162.159.16.208:443#新加坡 85
+108.162.192.30:443#新加坡 84
 162.159.6.117:443#🇸🇬Pacific-Singapore 86-2
 172.64.156.96:443#🇸🇬Pacific-Singapore 84-2
 162.159.27.105:443#🇸🇬Pacific-Singapore 85-2
@@ -11,11 +11,11 @@
 104.18.44.106:443#🇸🇬Pacific-Singapore 86-4
 162.159.21.215:443#🇸🇬Pacific-Singapore 86-5
 104.18.37.121:443#🇸🇬Pacific-Singapore 85-4
-162.159.4.227:443#🇸🇬Pacific-Singapore 87
+162.159.4.227:443#新加坡 87
 162.159.19.65:443#🇸🇬Pacific-Singapore 85-5
-162.159.23.64:443#🇸🇬Pacific-Singapore 88
+162.159.23.64:443#新加坡 88
 172.64.146.100:443#🇸🇬Pacific-Singapore 85-6
 172.64.150.224:443#🇸🇬Pacific-Singapore 87-2
 162.159.5.216:443#🇸🇬Pacific-Singapore 87-3
-162.159.24.82:443#🇸🇬Pacific-Singapore 80
+162.159.24.82:443#新加坡 80
 162.159.36.22:443#🇸🇬Pacific-Singapore 88-2
